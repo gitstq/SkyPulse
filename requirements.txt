@@ -1,0 +1,5 @@
+# SkyPulse - Lightweight Terminal Weather Intelligence Assistant
+# Zero core dependencies - uses only Python standard library
+
+# Optional development dependencies (install with: pip install skypulse[dev])
+# See pyproject.toml for full development dependencies list
